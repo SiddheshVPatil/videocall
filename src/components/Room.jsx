@@ -18,7 +18,7 @@ function Room() {
             sharedLinks:[
                 {
                     name:'Copy Link',
-                    url: `http:loaclhost:3000/room/${roomId}`
+                    url: `https://videocallmedemo.onrender.com/room/${roomId}`
                 }
             ],
             scenario:{
